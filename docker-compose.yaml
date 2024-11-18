@@ -1,0 +1,8 @@
+---
+services:
+  ubuntu:
+    image: maven:3.9.9-ibmjava-8
+    platform: linux/x86_64
+    command: ["sleep", "infinity"]
+    volumes:
+      - ./:/app

@@ -39,6 +39,7 @@
     <module>zetasql-toolkit-bigquery</module>
     <module>zetasql-toolkit-spanner</module>
     <module>zetasql-toolkit-examples</module>
+    <module>zetasql-toolkit-flink</module>
   </modules>
 
   <scm>
